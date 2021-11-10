@@ -1,0 +1,6 @@
+{
+"title":"example title",
+"date":"12/01/2020",
+"overseeing":"danielson",
+"notes":"attention to upper left"
+}
