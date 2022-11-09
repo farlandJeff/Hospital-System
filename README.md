@@ -13,3 +13,5 @@ Notable features:
 - Upload files to patient directories.
 - Search for patients.
 - Attach meta-data to files for improved data discovery.
+
+![Screenshot](https://jeffreymcfarland.com/img/hms.png)
